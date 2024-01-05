@@ -1,1 +1,2 @@
-Creating a notepad project in Java involves building a simple text editor that allows users to create, edit, and save text documents. Below is a basic description of the steps and components you might include in a simple Notepad project using Java:
+Creating a notepad project in Java involves building a simple text editor
+that allows users to create, edit, and save text document.
